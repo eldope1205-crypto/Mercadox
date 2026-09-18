@@ -1,0 +1,6 @@
+{
+  "name": "MercadoX",
+  "description": "Plataforma marketplace segura para compra, venta y regalos entre particulares en España con sistema antifraude y pagos protegidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
